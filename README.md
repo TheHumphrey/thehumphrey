@@ -1,6 +1,6 @@
-### Hi there 👋
+### Ola Dev
 
-### Tecnologias Principais:
+### 🚀 Tecnologias Principais: 🚀
 
 - HTML / CSS
 - Javascript
@@ -8,6 +8,10 @@
 - React
 - Node
 - C# .net Core
+
+💻 LinkedIn: https://www.linkedin.com/in/fernando-barros-a50096185/ 💻
+
+🌎 Sou de Goiânia, Goiás, Brasil. 🌎
 
 <!--
 **TheHumphrey/thehumphrey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

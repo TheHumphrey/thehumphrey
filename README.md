@@ -9,7 +9,7 @@
 - Node
 - C# .net Core
 
-💻 LinkedIn: https://www.linkedin.com/in/fernando-barros-a50096185/ 💻
+💻 [LinkedIn](https://www.linkedin.com/in/fernando-barros-a50096185/) 💻
 
 🌎 Sou de Goiânia, Goiás, Brasil. 🌎
 

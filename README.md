@@ -11,7 +11,7 @@
 
 🌎 Sou de Goiânia, Goiás, Brasil. 🌎
 
-LinkedIn(https://www.linkedin.com/in/fernando-barros-a50096185/)
+[LinkedIn](https://www.linkedin.com/in/fernando-barros-a50096185/)
 
 <!--
 **TheHumphrey/thehumphrey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

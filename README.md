@@ -6,7 +6,6 @@
 <a>
 <img src="https://github-readme-stats.vercel.app/api?username=thehumphrey&show_icons=true&theme=dracula&count_private=true&include_all_commits=true" alt="thehumphrey" />
 </a>
-<br/>
 
 ----
 

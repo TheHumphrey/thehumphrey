@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Fernando</h1>
-🌎 Goiânia, Goiás, Brasil. 🌎
+<h4>🌎 Goiânia, Goiás, Brasil. 🌎</h4>
 
 <br/>
 <a>
